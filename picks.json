@@ -12,7 +12,17 @@
             "oppGAA": 3.33,
             "oppShotsAgainstPerGame": 27.67,
             "oppNetPKPct": 0.71,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8478435",
+                "confirmed": 0,
+                "careerGamesPlayed": 163,
+                "careerGAA": 2.82127,
+                "careerSavePct": 0.898388,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 3.15091,
+                "seasonSavePct": 0.9,
+                "goalieName": "Dan Vladar"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 13:00:00",
@@ -77,7 +87,17 @@
             "oppGAA": 3.15,
             "oppShotsAgainstPerGame": 31.46,
             "oppNetPKPct": 0.85,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8482982",
+                "confirmed": 0,
+                "careerGamesPlayed": 82,
+                "careerGAA": 2.65077,
+                "careerSavePct": 0.911334,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 3.33816,
+                "seasonSavePct": 0.883212,
+                "goalieName": "Jet Greaves"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 19:00:00",
@@ -142,7 +162,17 @@
             "oppGAA": 2.17,
             "oppShotsAgainstPerGame": 27.92,
             "oppNetPKPct": 0.79,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8481611",
+                "confirmed": 0,
+                "careerGamesPlayed": 132,
+                "careerGAA": 2.41493,
+                "careerSavePct": 0.905057,
+                "seasonGamesPlayed": 7,
+                "seasonGAA": 1.7034,
+                "seasonSavePct": 0.916084,
+                "goalieName": "Pyotr Kochetkov"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 19:00:00",
@@ -207,7 +237,17 @@
             "oppGAA": 2.46,
             "oppShotsAgainstPerGame": 22.38,
             "oppNetPKPct": 0.88,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8480280",
+                "confirmed": 0,
+                "careerGamesPlayed": 254,
+                "careerGAA": 2.59251,
+                "careerSavePct": 0.910093,
+                "seasonGamesPlayed": 9,
+                "seasonGAA": 2.19867,
+                "seasonSavePct": 0.919679,
+                "goalieName": "Jeremy Swayman"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 19:00:00",
@@ -272,7 +312,17 @@
             "oppGAA": 3.5,
             "oppShotsAgainstPerGame": 28.8,
             "oppNetPKPct": 0.7,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8481519",
+                "confirmed": 0,
+                "careerGamesPlayed": 159,
+                "careerGAA": 2.86659,
+                "careerSavePct": 0.902657,
+                "seasonGamesPlayed": 9,
+                "seasonGAA": 3.47815,
+                "seasonSavePct": 0.890459,
+                "goalieName": "Spencer Knight"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-25 15:00:00",
@@ -337,7 +387,17 @@
             "oppGAA": 3.91,
             "oppShotsAgainstPerGame": 30.64,
             "oppNetPKPct": 0.79,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8476341",
+                "confirmed": 0,
+                "careerGamesPlayed": 230,
+                "careerGAA": 2.95172,
+                "careerSavePct": 0.905016,
+                "seasonGamesPlayed": 4,
+                "seasonGAA": 2.47593,
+                "seasonSavePct": 0.894118,
+                "goalieName": "Anton Forsberg"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-26 19:00:00",
@@ -402,7 +462,17 @@
             "oppGAA": 3.27,
             "oppShotsAgainstPerGame": 26.55,
             "oppNetPKPct": 0.85,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8480981",
+                "confirmed": 0,
+                "careerGamesPlayed": 123,
+                "careerGAA": 2.64841,
+                "careerSavePct": 0.909201,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 2.39815,
+                "seasonSavePct": 0.916667,
+                "goalieName": "Joel Hofer"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 19:00:00",
@@ -467,7 +537,17 @@
             "oppGAA": 3.18,
             "oppShotsAgainstPerGame": 28.45,
             "oppNetPKPct": 0.93,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8484170",
+                "confirmed": 0,
+                "careerGamesPlayed": 23,
+                "careerGAA": 2.2606,
+                "careerSavePct": 0.91231,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 1.78636,
+                "seasonSavePct": 0.924138,
+                "goalieName": "Jacob Fowler"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-25 19:00:00",
@@ -532,7 +612,17 @@
             "oppGAA": 2.55,
             "oppShotsAgainstPerGame": 26.64,
             "oppNetPKPct": 0.92,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8477424",
+                "confirmed": 0,
+                "careerGamesPlayed": 475,
+                "careerGAA": 2.74249,
+                "careerSavePct": 0.911646,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 2.81988,
+                "seasonSavePct": 0.908,
+                "goalieName": "Juuse Saros"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-25 20:00:00",
@@ -597,7 +687,17 @@
             "oppGAA": 3,
             "oppShotsAgainstPerGame": 29.27,
             "oppNetPKPct": 0.91,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8473575",
+                "confirmed": 0,
+                "careerGamesPlayed": 624,
+                "careerGAA": 2.64517,
+                "careerSavePct": 0.915534,
+                "seasonGamesPlayed": 3,
+                "seasonGAA": 2.2494,
+                "seasonSavePct": 0.898551,
+                "goalieName": "Semyon Varlamov"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-25 18:00:00",
@@ -662,7 +762,17 @@
             "oppGAA": 2.91,
             "oppShotsAgainstPerGame": 23.91,
             "oppNetPKPct": 0.78,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8479979",
+                "confirmed": 0,
+                "careerGamesPlayed": 314,
+                "careerGAA": 2.50329,
+                "careerSavePct": 0.910412,
+                "seasonGamesPlayed": 9,
+                "seasonGAA": 1.42709,
+                "seasonSavePct": 0.92973,
+                "goalieName": "Jake Oettinger"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-25 18:00:00",
@@ -727,7 +837,17 @@
             "oppGAA": 1.73,
             "oppShotsAgainstPerGame": 21.73,
             "oppNetPKPct": 0.95,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8474596",
+                "confirmed": 0,
+                "careerGamesPlayed": 504,
+                "careerGAA": 2.75605,
+                "careerSavePct": 0.90703,
+                "seasonGamesPlayed": 7,
+                "seasonGAA": 2.84394,
+                "seasonSavePct": 0.886364,
+                "goalieName": "Jake Allen"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 15:30:00",
@@ -792,7 +912,17 @@
             "oppGAA": 3,
             "oppShotsAgainstPerGame": 24.08,
             "oppNetPKPct": 0.85,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8479973",
+                "confirmed": 0,
+                "careerGamesPlayed": 232,
+                "careerGAA": 2.76557,
+                "careerSavePct": 0.902404,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 2.59776,
+                "seasonSavePct": 0.911017,
+                "goalieName": "Stuart Skinner"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-25 19:00:00",
@@ -857,7 +987,17 @@
             "oppGAA": 2.82,
             "oppShotsAgainstPerGame": 29.18,
             "oppNetPKPct": 0.81,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8481033",
+                "confirmed": 0,
+                "careerGamesPlayed": 88,
+                "careerGAA": 2.71498,
+                "careerSavePct": 0.896466,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 3.33968,
+                "seasonSavePct": 0.872483,
+                "goalieName": "Akira Schmid"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-25 15:00:00",
@@ -922,7 +1062,17 @@
             "oppGAA": 2.31,
             "oppShotsAgainstPerGame": 24.92,
             "oppNetPKPct": 0.8,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8478872",
+                "confirmed": 0,
+                "careerGamesPlayed": 272,
+                "careerGAA": 3.10328,
+                "careerSavePct": 0.898627,
+                "seasonGamesPlayed": 10,
+                "seasonGAA": 3.13212,
+                "seasonSavePct": 0.878261,
+                "goalieName": "Karel Vejmelka"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 21:00:00",
@@ -987,7 +1137,17 @@
             "oppGAA": 3.33,
             "oppShotsAgainstPerGame": 23.5,
             "oppNetPKPct": 0.69,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8482661",
+                "confirmed": 0,
+                "careerGamesPlayed": 51,
+                "careerGAA": 2.57669,
+                "careerSavePct": 0.9125,
+                "seasonGamesPlayed": 11,
+                "seasonGAA": 2.07857,
+                "seasonSavePct": 0.91844,
+                "goalieName": "Jesper Wallstedt"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-25 22:00:00",
@@ -1052,7 +1212,17 @@
             "oppGAA": 2.83,
             "oppShotsAgainstPerGame": 26,
             "oppNetPKPct": 0.81,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8479394",
+                "confirmed": 0,
+                "careerGamesPlayed": 253,
+                "careerGAA": 2.91795,
+                "careerSavePct": 0.904414,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 2.75651,
+                "seasonSavePct": 0.888889,
+                "goalieName": "Carter Hart"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 19:00:00",
@@ -1117,7 +1287,17 @@
             "oppGAA": 2.92,
             "oppShotsAgainstPerGame": 25.08,
             "oppNetPKPct": 0.77,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8481035",
+                "confirmed": 0,
+                "careerGamesPlayed": 148,
+                "careerGAA": 3.05457,
+                "careerSavePct": 0.882852,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 4.58599,
+                "seasonSavePct": 0.835052,
+                "goalieName": "Samuel Ersson"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 19:00:00",
@@ -1182,7 +1362,17 @@
             "oppGAA": 4.62,
             "oppShotsAgainstPerGame": 33.54,
             "oppNetPKPct": 0.69,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8480843",
+                "confirmed": 0,
+                "careerGamesPlayed": 185,
+                "careerGAA": 3.22827,
+                "careerSavePct": 0.897502,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 3.27296,
+                "seasonSavePct": 0.880383,
+                "goalieName": "Lukas Dostal"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 13:00:00",
@@ -1247,7 +1437,17 @@
             "oppGAA": 3.36,
             "oppShotsAgainstPerGame": 27.18,
             "oppNetPKPct": 0.79,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8480947",
+                "confirmed": 0,
+                "careerGamesPlayed": 218,
+                "careerGAA": 3.18823,
+                "careerSavePct": 0.895272,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 6.17245,
+                "seasonSavePct": 0.812183,
+                "goalieName": "Kevin Lankinen"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-25 22:00:00",
@@ -1312,7 +1512,17 @@
             "oppGAA": 3.64,
             "oppShotsAgainstPerGame": 26.55,
             "oppNetPKPct": 0.72,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8482137",
+                "confirmed": 0,
+                "careerGamesPlayed": 70,
+                "careerGAA": 3.47083,
+                "careerSavePct": 0.887031,
+                "seasonGamesPlayed": 7,
+                "seasonGAA": 3.43279,
+                "seasonSavePct": 0.883495,
+                "goalieName": "Yaroslav Askarov"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 19:00:00",
@@ -1377,7 +1587,17 @@
             "oppGAA": 3.5,
             "oppShotsAgainstPerGame": 30.33,
             "oppNetPKPct": 0.9,
-            "goalie": null,
+            "goalie": {
+                "playerID": "8481551",
+                "confirmed": 0,
+                "careerGamesPlayed": 19,
+                "careerGAA": 2.93896,
+                "careerSavePct": 0.898833,
+                "seasonGamesPlayed": 3,
+                "seasonGAA": 3.19432,
+                "seasonSavePct": 0.864407,
+                "goalieName": "Colten Ellis"
+            },
             "last5Games": [
                 {
                     "startTimeEST": "2026-10-24 19:00:00",
