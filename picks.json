@@ -1,5 +1,4 @@
 {
-    "date": "2026-10-26T21:00:05-04:00",
     "slate_lock": "2026-10-26T21:30:00-04:00",
     "teams": {
         "NYR": {
@@ -240,7 +239,7 @@
             "oppNetPKPct": 0.88,
             "goalie": {
                 "playerID": "8475683",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 814,
                 "careerGAA": 2.61212,
                 "careerSavePct": 0.912089,
