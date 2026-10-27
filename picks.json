@@ -1213,15 +1213,15 @@
             "oppShotsAgainstPerGame": 26,
             "oppNetPKPct": 0.81,
             "goalie": {
-                "playerID": "8479394",
-                "confirmed": 0,
-                "careerGamesPlayed": 253,
-                "careerGAA": 2.91795,
-                "careerSavePct": 0.904414,
-                "seasonGamesPlayed": 8,
-                "seasonGAA": 2.75651,
-                "seasonSavePct": 0.888889,
-                "goalieName": "Carter Hart"
+                "playerID": "8478499",
+                "confirmed": 1,
+                "careerGamesPlayed": 218,
+                "careerGAA": 2.68376,
+                "careerSavePct": 0.904385,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 2.95486,
+                "seasonSavePct": 0.88189,
+                "goalieName": "Adin Hill"
             },
             "last5Games": [
                 {
