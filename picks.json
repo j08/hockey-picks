@@ -314,7 +314,7 @@
             "oppNetPKPct": 0.7,
             "goalie": {
                 "playerID": "8481519",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 159,
                 "careerGAA": 2.86659,
                 "careerSavePct": 0.902657,
@@ -464,7 +464,7 @@
             "oppNetPKPct": 0.85,
             "goalie": {
                 "playerID": "8476412",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 380,
                 "careerGAA": 2.84928,
                 "careerSavePct": 0.902868,
@@ -539,7 +539,7 @@
             "oppNetPKPct": 0.93,
             "goalie": {
                 "playerID": "8484170",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 23,
                 "careerGAA": 2.2606,
                 "careerSavePct": 0.91231,
@@ -838,15 +838,15 @@
             "oppShotsAgainstPerGame": 21.73,
             "oppNetPKPct": 0.95,
             "goalie": {
-                "playerID": "8474596",
-                "confirmed": 0,
-                "careerGamesPlayed": 504,
-                "careerGAA": 2.75605,
-                "careerSavePct": 0.90703,
-                "seasonGamesPlayed": 7,
-                "seasonGAA": 2.84394,
-                "seasonSavePct": 0.886364,
-                "goalieName": "Jake Allen"
+                "playerID": "8476945",
+                "confirmed": 1,
+                "careerGamesPlayed": 625,
+                "careerGAA": 2.58461,
+                "careerSavePct": 0.915758,
+                "seasonGamesPlayed": null,
+                "seasonGAA": null,
+                "seasonSavePct": null,
+                "goalieName": "Connor Hellebuyck"
             },
             "last5Games": [
                 {
@@ -989,7 +989,7 @@
             "oppNetPKPct": 0.81,
             "goalie": {
                 "playerID": "8481033",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 88,
                 "careerGAA": 2.71498,
                 "careerSavePct": 0.896466,
@@ -1064,7 +1064,7 @@
             "oppNetPKPct": 0.8,
             "goalie": {
                 "playerID": "8478872",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 272,
                 "careerGAA": 3.10328,
                 "careerSavePct": 0.898627,
@@ -1139,7 +1139,7 @@
             "oppNetPKPct": 0.69,
             "goalie": {
                 "playerID": "8482661",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 51,
                 "careerGAA": 2.57669,
                 "careerSavePct": 0.9125,
@@ -1288,15 +1288,15 @@
             "oppShotsAgainstPerGame": 25.08,
             "oppNetPKPct": 0.77,
             "goalie": {
-                "playerID": "8481035",
-                "confirmed": 0,
-                "careerGamesPlayed": 148,
-                "careerGAA": 3.05457,
-                "careerSavePct": 0.882852,
-                "seasonGamesPlayed": 5,
-                "seasonGAA": 4.58599,
-                "seasonSavePct": 0.835052,
-                "goalieName": "Samuel Ersson"
+                "playerID": "8477992",
+                "confirmed": 1,
+                "careerGamesPlayed": 106,
+                "careerGAA": 3.29577,
+                "careerSavePct": 0.888231,
+                "seasonGamesPlayed": 1,
+                "seasonGAA": 4.0291,
+                "seasonSavePct": 0.857143,
+                "goalieName": "Jonas Johansson"
             },
             "last5Games": [
                 {
@@ -1364,7 +1364,7 @@
             "oppNetPKPct": 0.69,
             "goalie": {
                 "playerID": "8480843",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 185,
                 "careerGAA": 3.22827,
                 "careerSavePct": 0.897502,
@@ -1514,7 +1514,7 @@
             "oppNetPKPct": 0.72,
             "goalie": {
                 "playerID": "8482137",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 70,
                 "careerGAA": 3.47083,
                 "careerSavePct": 0.887031,
@@ -1847,7 +1847,7 @@
                 "playerID": "8479343",
                 "team": "UTA",
                 "position": "C",
-                "evLine": "f2",
+                "evLine": "f1",
                 "ppLine": "pp1",
                 "daysRest": 2,
                 "lastGameDate": "2026-10-24",
