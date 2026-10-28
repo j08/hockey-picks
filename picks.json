@@ -14,7 +14,7 @@
             "oppNetPKPct": 0.85,
             "goalie": {
                 "playerID": "8480313",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 211,
                 "careerGAA": 2.57685,
                 "careerSavePct": 0.911271,
@@ -314,7 +314,7 @@
             "oppNetPKPct": 0.78,
             "goalie": {
                 "playerID": "8478406",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 299,
                 "careerGAA": 2.89789,
                 "careerSavePct": 0.90519,
@@ -2385,7 +2385,7 @@
                 "playerID": "8484768",
                 "team": "CGY",
                 "position": "D",
-                "evLine": "d3",
+                "evLine": "d2",
                 "ppLine": "pp1",
                 "daysRest": 1,
                 "lastGameDate": "2026-10-26",
