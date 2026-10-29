@@ -464,7 +464,7 @@
             "oppNetPKPct": 0.73,
             "goalie": {
                 "playerID": "8481611",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 133,
                 "careerGAA": 2.40389,
                 "careerSavePct": 0.905188,
@@ -1288,15 +1288,15 @@
             "oppShotsAgainstPerGame": 27.67,
             "oppNetPKPct": 0.8,
             "goalie": {
-                "playerID": "8480045",
+                "playerID": "8481551",
                 "confirmed": 0,
-                "careerGamesPlayed": 199,
-                "careerGAA": 2.98604,
-                "careerSavePct": 0.898786,
-                "seasonGamesPlayed": 9,
-                "seasonGAA": 3.56333,
-                "seasonSavePct": 0.866379,
-                "goalieName": "Ukko-Pekka Luukkonen"
+                "careerGamesPlayed": 20,
+                "careerGAA": 2.78182,
+                "careerSavePct": 0.903166,
+                "seasonGamesPlayed": 4,
+                "seasonGAA": 2.28318,
+                "seasonSavePct": 0.902439,
+                "goalieName": "Colten Ellis"
             },
             "last5Games": [
                 {
@@ -1364,7 +1364,7 @@
             "oppNetPKPct": 0.8,
             "goalie": {
                 "playerID": "8475311",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 496,
                 "careerGAA": 2.57734,
                 "careerSavePct": 0.912385,
@@ -1438,15 +1438,15 @@
             "oppShotsAgainstPerGame": 28.64,
             "oppNetPKPct": 0.7,
             "goalie": {
-                "playerID": "8481035",
-                "confirmed": 0,
-                "careerGamesPlayed": 148,
-                "careerGAA": 3.05457,
-                "careerSavePct": 0.882852,
-                "seasonGamesPlayed": 5,
-                "seasonGAA": 4.58599,
-                "seasonSavePct": 0.835052,
-                "goalieName": "Samuel Ersson"
+                "playerID": "8477992",
+                "confirmed": 1,
+                "careerGamesPlayed": 107,
+                "careerGAA": 3.28365,
+                "careerSavePct": 0.888621,
+                "seasonGamesPlayed": 2,
+                "seasonGAA": 3.05906,
+                "seasonSavePct": 0.892857,
+                "goalieName": "Jonas Johansson"
             },
             "last5Games": [
                 {
@@ -1589,7 +1589,7 @@
             "oppNetPKPct": 0.91,
             "goalie": {
                 "playerID": "8482447",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 43,
                 "careerGAA": 3.06664,
                 "careerSavePct": 0.888889,
