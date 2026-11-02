@@ -163,15 +163,15 @@
             "oppShotsAgainstPerGame": 24.43,
             "oppNetPKPct": 0.69,
             "goalie": {
-                "playerID": "8481033",
-                "confirmed": 0,
-                "careerGamesPlayed": 90,
-                "careerGAA": 2.68407,
-                "careerSavePct": 0.897473,
-                "seasonGamesPlayed": 8,
-                "seasonGAA": 2.86117,
-                "seasonSavePct": 0.888889,
-                "goalieName": "Akira Schmid"
+                "playerID": "8474593",
+                "confirmed": 1,
+                "careerGamesPlayed": 584,
+                "careerGAA": 2.72792,
+                "careerSavePct": 0.906464,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 2.20588,
+                "seasonSavePct": 0.897436,
+                "goalieName": "Jacob Markstrom"
             },
             "last5Games": [
                 {
