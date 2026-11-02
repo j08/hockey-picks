@@ -14,7 +14,7 @@
             "oppNetPKPct": 0.78,
             "goalie": {
                 "playerID": "8480280",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 256,
                 "careerGAA": 2.59619,
                 "careerSavePct": 0.909857,
@@ -238,15 +238,15 @@
             "oppShotsAgainstPerGame": 24.14,
             "oppNetPKPct": 0.85,
             "goalie": {
-                "playerID": "8476434",
-                "confirmed": 0,
-                "careerGamesPlayed": 573,
-                "careerGAA": 2.88038,
-                "careerSavePct": 0.908729,
-                "seasonGamesPlayed": 10,
-                "seasonGAA": 3.3658,
-                "seasonSavePct": 0.86036,
-                "goalieName": "John Gibson"
+                "playerID": "8480193",
+                "confirmed": 1,
+                "careerGamesPlayed": 102,
+                "careerGAA": 3.23094,
+                "careerSavePct": 0.89826,
+                "seasonGamesPlayed": 4,
+                "seasonGAA": 1.40263,
+                "seasonSavePct": 0.940476,
+                "goalieName": "Daniil Tarasov"
             },
             "last5Games": [
                 {
@@ -2230,7 +2230,7 @@
                 "playerID": "8478462",
                 "team": "COL",
                 "position": "C",
-                "evLine": "f2",
+                "evLine": "f4",
                 "ppLine": "",
                 "bookieOdds": "19.0%",
                 "myModelOdds": "18.8%",
