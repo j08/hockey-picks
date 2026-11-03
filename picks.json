@@ -164,7 +164,7 @@
             "oppNetPKPct": 0.73,
             "goalie": {
                 "playerID": "8484170",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 25,
                 "careerGAA": 2.2403,
                 "careerSavePct": 0.916168,
@@ -614,7 +614,7 @@
             "oppNetPKPct": 0.92,
             "goalie": {
                 "playerID": "8482193",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 14,
                 "careerGAA": 2.45939,
                 "careerSavePct": 0.91092,
@@ -763,15 +763,15 @@
             "oppShotsAgainstPerGame": 25.25,
             "oppNetPKPct": 0.81,
             "goalie": {
-                "playerID": "8479361",
-                "confirmed": 0,
-                "careerGamesPlayed": 125,
-                "careerGAA": 2.95056,
-                "careerSavePct": 0.905978,
+                "playerID": "8478435",
+                "confirmed": 1,
+                "careerGamesPlayed": 165,
+                "careerGAA": 2.82956,
+                "careerSavePct": 0.897638,
                 "seasonGamesPlayed": 8,
-                "seasonGAA": 3.12772,
-                "seasonSavePct": 0.898785,
-                "goalieName": "Joseph Woll"
+                "seasonGAA": 3.22992,
+                "seasonSavePct": 0.885463,
+                "goalieName": "Dan Vladar"
             },
             "last5Games": [
                 {
@@ -1064,7 +1064,7 @@
             "oppNetPKPct": 0.96,
             "goalie": {
                 "playerID": "8480313",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 213,
                 "careerGAA": 2.58117,
                 "careerSavePct": 0.911056,
