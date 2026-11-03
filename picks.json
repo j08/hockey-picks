@@ -88,15 +88,15 @@
             "oppShotsAgainstPerGame": 29.31,
             "oppNetPKPct": 0.93,
             "goalie": {
-                "playerID": "8478872",
-                "confirmed": 0,
-                "careerGamesPlayed": 274,
-                "careerGAA": 3.11107,
-                "careerSavePct": 0.898266,
-                "seasonGamesPlayed": 12,
-                "seasonGAA": 3.30693,
-                "seasonSavePct": 0.871886,
-                "goalieName": "Karel Vejmelka"
+                "playerID": "8482657",
+                "confirmed": 1,
+                "careerGamesPlayed": 6,
+                "careerGAA": 3.10919,
+                "careerSavePct": 0.85567,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 3.19763,
+                "seasonSavePct": 0.855422,
+                "goalieName": "Sebastian Cossa"
             },
             "last5Games": [
                 {
@@ -238,15 +238,15 @@
             "oppShotsAgainstPerGame": 27.57,
             "oppNetPKPct": 0.84,
             "goalie": {
-                "playerID": "8482076",
+                "playerID": "8479973",
                 "confirmed": 0,
-                "careerGamesPlayed": 61,
-                "careerGAA": 2.9467,
-                "careerSavePct": 0.897233,
-                "seasonGamesPlayed": 4,
-                "seasonGAA": 2.777,
-                "seasonSavePct": 0.872093,
-                "goalieName": "Nico Daws"
+                "careerGamesPlayed": 234,
+                "careerGAA": 2.7959,
+                "careerSavePct": 0.901415,
+                "seasonGamesPlayed": 10,
+                "seasonGAA": 3.35629,
+                "seasonSavePct": 0.886861,
+                "goalieName": "Stuart Skinner"
             },
             "last5Games": [
                 {
@@ -539,7 +539,7 @@
             "oppNetPKPct": 0.77,
             "goalie": {
                 "playerID": "8477465",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 333,
                 "careerGAA": 2.79761,
                 "careerSavePct": 0.90683,
@@ -689,7 +689,7 @@
             "oppNetPKPct": 0.93,
             "goalie": {
                 "playerID": "8480981",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 125,
                 "careerGAA": 2.64605,
                 "careerSavePct": 0.909307,
@@ -1139,7 +1139,7 @@
             "oppNetPKPct": 0.8,
             "goalie": {
                 "playerID": "8479979",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 316,
                 "careerGAA": 2.50359,
                 "careerSavePct": 0.910288,
@@ -2150,7 +2150,7 @@
                 "team": "MTL",
                 "position": "R",
                 "evLine": "f1",
-                "ppLine": "pp1",
+                "ppLine": "pp2",
                 "bookieOdds": "48.7%",
                 "myModelOdds": "39.1%",
                 "daysRest": 2,
@@ -2739,7 +2739,7 @@
                 "playerID": "8481580",
                 "team": "STL",
                 "position": "C",
-                "evLine": "f3",
+                "evLine": "f2",
                 "ppLine": "pp2",
                 "bookieOdds": "21.2%",
                 "myModelOdds": "15.7%",
