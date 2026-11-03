@@ -1588,15 +1588,15 @@
             "oppShotsAgainstPerGame": 31.94,
             "oppNetPKPct": 0.7,
             "goalie": {
-                "playerID": "8480843",
-                "confirmed": 0,
-                "careerGamesPlayed": 186,
-                "careerGAA": 3.24272,
-                "careerSavePct": 0.897024,
-                "seasonGamesPlayed": 9,
-                "seasonGAA": 3.55561,
-                "seasonSavePct": 0.871901,
-                "goalieName": "Lukas Dostal"
+                "playerID": "8476316",
+                "confirmed": 1,
+                "careerGamesPlayed": 142,
+                "careerGAA": 2.66693,
+                "careerSavePct": 0.909786,
+                "seasonGamesPlayed": 1,
+                "seasonGAA": 3,
+                "seasonSavePct": 0.863636,
+                "goalieName": "Laurent Brossoit"
             },
             "last5Games": [
                 {
@@ -2593,7 +2593,7 @@
                 "team": "NJD",
                 "position": "R",
                 "evLine": "f4",
-                "ppLine": "",
+                "ppLine": "pp1",
                 "bookieOdds": "24.1%",
                 "myModelOdds": "19.0%",
                 "daysRest": 3,
