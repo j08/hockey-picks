@@ -1513,15 +1513,15 @@
             "oppShotsAgainstPerGame": 27.57,
             "oppNetPKPct": 0.78,
             "goalie": {
-                "playerID": "8482447",
-                "confirmed": 0,
-                "careerGamesPlayed": 45,
-                "careerGAA": 3.07009,
-                "careerSavePct": 0.888589,
-                "seasonGamesPlayed": 11,
-                "seasonGAA": 3.30559,
-                "seasonSavePct": 0.897436,
-                "goalieName": "Leevi Merilainen"
+                "playerID": "8480947",
+                "confirmed": 1,
+                "careerGamesPlayed": 218,
+                "careerGAA": 3.18823,
+                "careerSavePct": 0.895272,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 6.17245,
+                "seasonSavePct": 0.812183,
+                "goalieName": "Kevin Lankinen"
             },
             "last5Games": [
                 {
