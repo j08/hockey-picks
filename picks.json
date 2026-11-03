@@ -238,15 +238,15 @@
             "oppShotsAgainstPerGame": 27.57,
             "oppNetPKPct": 0.84,
             "goalie": {
-                "playerID": "8479973",
+                "playerID": "8482076",
                 "confirmed": 0,
-                "careerGamesPlayed": 234,
-                "careerGAA": 2.7959,
-                "careerSavePct": 0.901415,
-                "seasonGamesPlayed": 10,
-                "seasonGAA": 3.35629,
-                "seasonSavePct": 0.886861,
-                "goalieName": "Stuart Skinner"
+                "careerGamesPlayed": 61,
+                "careerGAA": 2.9467,
+                "careerSavePct": 0.897233,
+                "seasonGamesPlayed": 4,
+                "seasonGAA": 2.777,
+                "seasonSavePct": 0.872093,
+                "goalieName": "Nico Daws"
             },
             "last5Games": [
                 {
@@ -464,7 +464,7 @@
             "oppNetPKPct": 0.8,
             "goalie": {
                 "playerID": "8476945",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 627,
                 "careerGAA": 2.58105,
                 "careerSavePct": 0.915773,
@@ -839,7 +839,7 @@
             "oppNetPKPct": 0.82,
             "goalie": {
                 "playerID": "8482661",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 54,
                 "careerGAA": 2.54315,
                 "careerSavePct": 0.913158,
@@ -914,7 +914,7 @@
             "oppNetPKPct": 0.78,
             "goalie": {
                 "playerID": "8481668",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 67,
                 "careerGAA": 3.07589,
                 "careerSavePct": 0.886076,
@@ -1213,15 +1213,15 @@
             "oppShotsAgainstPerGame": 27.6,
             "oppNetPKPct": 0.79,
             "goalie": {
-                "playerID": "8482982",
-                "confirmed": 0,
-                "careerGamesPlayed": 84,
-                "careerGAA": 2.64856,
-                "careerSavePct": 0.910846,
-                "seasonGamesPlayed": 8,
-                "seasonGAA": 3.11214,
-                "seasonSavePct": 0.883333,
-                "goalieName": "Jet Greaves"
+                "playerID": "8475660",
+                "confirmed": 1,
+                "careerGamesPlayed": 573,
+                "careerGAA": 2.69055,
+                "careerSavePct": 0.910906,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 2.83286,
+                "seasonSavePct": 0.894366,
+                "goalieName": "Cam Talbot"
             },
             "last5Games": [
                 {
@@ -1364,7 +1364,7 @@
             "oppNetPKPct": 0.89,
             "goalie": {
                 "playerID": "8477424",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 477,
                 "careerGAA": 2.74551,
                 "careerSavePct": 0.911501,
