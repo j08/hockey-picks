@@ -14,7 +14,7 @@
             "oppNetPKPct": 0.76,
             "goalie": {
                 "playerID": "8481551",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 21,
                 "careerGAA": 2.94541,
                 "careerSavePct": 0.898601,
@@ -314,7 +314,7 @@
             "oppNetPKPct": 0.92,
             "goalie": {
                 "playerID": "8475311",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 497,
                 "careerGAA": 2.58221,
                 "careerSavePct": 0.912163,
@@ -463,15 +463,15 @@
             "oppShotsAgainstPerGame": 29.93,
             "oppNetPKPct": 0.85,
             "goalie": {
-                "playerID": "8475831",
-                "confirmed": 0,
-                "careerGamesPlayed": 411,
-                "careerGAA": 2.66268,
-                "careerSavePct": 0.907644,
-                "seasonGamesPlayed": 9,
-                "seasonGAA": 3.24234,
-                "seasonSavePct": 0.886463,
-                "goalieName": "Philipp Grubauer"
+                "playerID": "8478916",
+                "confirmed": 1,
+                "careerGamesPlayed": 180,
+                "careerGAA": 2.87345,
+                "careerSavePct": 0.903078,
+                "seasonGamesPlayed": 7,
+                "seasonGAA": 3.95749,
+                "seasonSavePct": 0.88,
+                "goalieName": "Joey Daccord"
             },
             "last5Games": [
                 {
@@ -759,7 +759,7 @@
                 "evLine": "",
                 "ppLine": "",
                 "bookieOdds": "39.0%",
-                "myModelOdds": "28.2%",
+                "myModelOdds": "29.5%",
                 "daysRest": 5,
                 "lastGameDate": "2026-10-29",
                 "lastGoals": "0",
