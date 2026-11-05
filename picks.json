@@ -13,15 +13,15 @@
             "oppShotsAgainstPerGame": 24.75,
             "oppNetPKPct": 0.72,
             "goalie": {
-                "playerID": "8484170",
-                "confirmed": 0,
-                "careerGamesPlayed": 26,
-                "careerGAA": 2.3412,
-                "careerSavePct": 0.914685,
-                "seasonGamesPlayed": 9,
-                "seasonGAA": 2.17155,
-                "seasonSavePct": 0.925094,
-                "goalieName": "Jacob Fowler"
+                "playerID": "8482487",
+                "confirmed": 1,
+                "careerGamesPlayed": 65,
+                "careerGAA": 2.89174,
+                "careerSavePct": 0.898883,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 4.05463,
+                "seasonSavePct": 0.852761,
+                "goalieName": "Jakub Dobes"
             },
             "last5Games": [
                 {
@@ -163,15 +163,15 @@
             "oppShotsAgainstPerGame": 25.65,
             "oppNetPKPct": 0.8,
             "goalie": {
-                "playerID": "8476434",
+                "playerID": "8480193",
                 "confirmed": 0,
-                "careerGamesPlayed": 574,
-                "careerGAA": 2.8823,
-                "careerSavePct": 0.908682,
-                "seasonGamesPlayed": 11,
-                "seasonGAA": 3.45781,
-                "seasonSavePct": 0.859574,
-                "goalieName": "John Gibson"
+                "careerGamesPlayed": 104,
+                "careerGAA": 3.21817,
+                "careerSavePct": 0.898249,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 1.73708,
+                "seasonSavePct": 0.926829,
+                "goalieName": "Daniil Tarasov"
             },
             "last5Games": [
                 {
@@ -613,15 +613,15 @@
             "oppShotsAgainstPerGame": 22.29,
             "oppNetPKPct": 0.89,
             "goalie": {
-                "playerID": "8478009",
+                "playerID": "8473575",
                 "confirmed": 0,
-                "careerGamesPlayed": 318,
-                "careerGAA": 2.58991,
-                "careerSavePct": 0.914637,
-                "seasonGamesPlayed": 10,
-                "seasonGAA": 2.40937,
-                "seasonSavePct": 0.911111,
-                "goalieName": "Ilya Sorokin"
+                "careerGamesPlayed": 625,
+                "careerGAA": 2.64553,
+                "careerSavePct": 0.915478,
+                "seasonGamesPlayed": 4,
+                "seasonGAA": 2.40112,
+                "seasonSavePct": 0.891304,
+                "goalieName": "Semyon Varlamov"
             },
             "last5Games": [
                 {
@@ -763,15 +763,15 @@
             "oppShotsAgainstPerGame": 29.29,
             "oppNetPKPct": 0.83,
             "goalie": {
-                "playerID": "8473503",
-                "confirmed": 0,
-                "careerGamesPlayed": 540,
-                "careerGAA": 2.87952,
-                "careerSavePct": 0.909137,
-                "seasonGamesPlayed": 1,
-                "seasonGAA": 9,
-                "seasonSavePct": 0.625,
-                "goalieName": "James Reimer"
+                "playerID": "8482193",
+                "confirmed": 1,
+                "careerGamesPlayed": 15,
+                "careerGAA": 2.35212,
+                "careerSavePct": 0.915789,
+                "seasonGamesPlayed": 12,
+                "seasonGAA": 2.5662,
+                "seasonSavePct": 0.90493,
+                "goalieName": "Dylan Garand"
             },
             "last5Games": [
                 {
@@ -914,7 +914,7 @@
             "oppNetPKPct": 0.76,
             "goalie": {
                 "playerID": "8481668",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 68,
                 "careerGAA": 3.07505,
                 "careerSavePct": 0.88586,
@@ -1063,15 +1063,15 @@
             "oppShotsAgainstPerGame": 22.47,
             "oppNetPKPct": 0.92,
             "goalie": {
-                "playerID": "8482982",
+                "playerID": "8475660",
                 "confirmed": 0,
-                "careerGamesPlayed": 84,
-                "careerGAA": 2.64856,
-                "careerSavePct": 0.910846,
-                "seasonGamesPlayed": 8,
-                "seasonGAA": 3.11214,
-                "seasonSavePct": 0.883333,
-                "goalieName": "Jet Greaves"
+                "careerGamesPlayed": 574,
+                "careerGAA": 2.68928,
+                "careerSavePct": 0.910941,
+                "seasonGamesPlayed": 7,
+                "seasonGAA": 2.70056,
+                "seasonSavePct": 0.900585,
+                "goalieName": "Cam Talbot"
             },
             "last5Games": [
                 {
@@ -1214,7 +1214,7 @@
             "oppNetPKPct": 0.67,
             "goalie": {
                 "playerID": "8479973",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 235,
                 "careerGAA": 2.80076,
                 "careerSavePct": 0.901128,
