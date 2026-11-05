@@ -1438,15 +1438,15 @@
             "oppShotsAgainstPerGame": 26.81,
             "oppNetPKPct": 0.78,
             "goalie": {
-                "playerID": "8480843",
-                "confirmed": 0,
-                "careerGamesPlayed": 186,
-                "careerGAA": 3.24272,
-                "careerSavePct": 0.897024,
-                "seasonGamesPlayed": 9,
-                "seasonGAA": 3.55561,
-                "seasonSavePct": 0.871901,
-                "goalieName": "Lukas Dostal"
+                "playerID": "8476316",
+                "confirmed": 1,
+                "careerGamesPlayed": 143,
+                "careerGAA": 2.67738,
+                "careerSavePct": 0.909305,
+                "seasonGamesPlayed": 2,
+                "seasonGAA": 3.51415,
+                "seasonSavePct": 0.847826,
+                "goalieName": "Laurent Brossoit"
             },
             "last5Games": [
                 {
@@ -1856,7 +1856,7 @@
                 "team": "COL",
                 "position": "L",
                 "evLine": "f1",
-                "ppLine": "pp1",
+                "ppLine": "pp2",
                 "bookieOdds": "37.7%",
                 "myModelOdds": "35.9%",
                 "daysRest": 1,
@@ -2446,7 +2446,7 @@
                 "team": "COL",
                 "position": "C",
                 "evLine": "f2",
-                "ppLine": "pp2",
+                "ppLine": "pp1",
                 "bookieOdds": "29.2%",
                 "myModelOdds": "21.4%",
                 "daysRest": 1,
