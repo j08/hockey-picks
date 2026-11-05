@@ -88,15 +88,15 @@
             "oppShotsAgainstPerGame": 28.87,
             "oppNetPKPct": 0.83,
             "goalie": {
-                "playerID": "8478872",
-                "confirmed": 0,
-                "careerGamesPlayed": 274,
-                "careerGAA": 3.11107,
-                "careerSavePct": 0.898266,
-                "seasonGamesPlayed": 12,
-                "seasonGAA": 3.30693,
-                "seasonSavePct": 0.871886,
-                "goalieName": "Karel Vejmelka"
+                "playerID": "8482657",
+                "confirmed": 1,
+                "careerGamesPlayed": 7,
+                "careerGAA": 2.90791,
+                "careerSavePct": 0.873016,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 2.94599,
+                "seasonSavePct": 0.875,
+                "goalieName": "Sebastian Cossa"
             },
             "last5Games": [
                 {
@@ -538,15 +538,15 @@
             "oppShotsAgainstPerGame": 24.53,
             "oppNetPKPct": 0.74,
             "goalie": {
-                "playerID": "8480981",
-                "confirmed": 0,
-                "careerGamesPlayed": 126,
-                "careerGAA": 2.64108,
-                "careerSavePct": 0.909493,
-                "seasonGamesPlayed": 11,
-                "seasonGAA": 2.38757,
-                "seasonSavePct": 0.917722,
-                "goalieName": "Joel Hofer"
+                "playerID": "8476412",
+                "confirmed": 1,
+                "careerGamesPlayed": 381,
+                "careerGAA": 2.84773,
+                "careerSavePct": 0.902872,
+                "seasonGamesPlayed": 4,
+                "seasonGAA": 4.10812,
+                "seasonSavePct": 0.846154,
+                "goalieName": "Jordan Binnington"
             },
             "last5Games": [
                 {
@@ -1138,15 +1138,15 @@
             "oppShotsAgainstPerGame": 27.23,
             "oppNetPKPct": 0.73,
             "goalie": {
-                "playerID": "8479979",
-                "confirmed": 0,
-                "careerGamesPlayed": 317,
-                "careerGAA": 2.51174,
-                "careerSavePct": 0.909965,
-                "seasonGamesPlayed": 12,
-                "seasonGAA": 1.90538,
-                "seasonSavePct": 0.909449,
-                "goalieName": "Jake Oettinger"
+                "playerID": "8479193",
+                "confirmed": 1,
+                "careerGamesPlayed": 223,
+                "careerGAA": 2.74127,
+                "careerSavePct": 0.90947,
+                "seasonGamesPlayed": 3,
+                "seasonGAA": 2.94438,
+                "seasonSavePct": 0.8875,
+                "goalieName": "Casey Desmith"
             },
             "last5Games": [
                 {
@@ -1289,7 +1289,7 @@
             "oppNetPKPct": 0.71,
             "goalie": {
                 "playerID": "8482447",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 45,
                 "careerGAA": 3.07009,
                 "careerSavePct": 0.888589,
@@ -1514,7 +1514,7 @@
             "oppNetPKPct": 0.94,
             "goalie": {
                 "playerID": "8478406",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 303,
                 "careerGAA": 2.89357,
                 "careerSavePct": 0.905103,
