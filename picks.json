@@ -988,15 +988,15 @@
             "oppShotsAgainstPerGame": 27.67,
             "oppNetPKPct": 0.87,
             "goalie": {
-                "playerID": "8480280",
-                "confirmed": 0,
-                "careerGamesPlayed": 257,
-                "careerGAA": 2.59293,
-                "careerSavePct": 0.909867,
-                "seasonGamesPlayed": 12,
-                "seasonGAA": 2.3059,
-                "seasonSavePct": 0.9125,
-                "goalieName": "Jeremy Swayman"
+                "playerID": "8480022",
+                "confirmed": 1,
+                "careerGamesPlayed": 8,
+                "careerGAA": 3.23334,
+                "careerSavePct": 0.887006,
+                "seasonGamesPlayed": 4,
+                "seasonGAA": 2.25611,
+                "seasonSavePct": 0.929134,
+                "goalieName": "Michael Dipietro"
             },
             "last5Games": [
                 {
