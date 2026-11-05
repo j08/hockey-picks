@@ -464,7 +464,7 @@
             "oppNetPKPct": 0.92,
             "goalie": {
                 "playerID": "8476945",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 628,
                 "careerGAA": 2.58138,
                 "careerSavePct": 0.915707,
@@ -614,7 +614,7 @@
             "oppNetPKPct": 0.89,
             "goalie": {
                 "playerID": "8473575",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 625,
                 "careerGAA": 2.64553,
                 "careerSavePct": 0.915478,
@@ -838,15 +838,15 @@
             "oppShotsAgainstPerGame": 26.56,
             "oppNetPKPct": 0.94,
             "goalie": {
-                "playerID": "8478435",
-                "confirmed": 0,
-                "careerGamesPlayed": 166,
-                "careerGAA": 2.83108,
-                "careerSavePct": 0.897442,
-                "seasonGamesPlayed": 9,
-                "seasonGAA": 3.2131,
-                "seasonSavePct": 0.883065,
-                "goalieName": "Dan Vladar"
+                "playerID": "8479361",
+                "confirmed": 1,
+                "careerGamesPlayed": 125,
+                "careerGAA": 2.95056,
+                "careerSavePct": 0.905978,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 3.12772,
+                "seasonSavePct": 0.898785,
+                "goalieName": "Joseph Woll"
             },
             "last5Games": [
                 {
@@ -1064,7 +1064,7 @@
             "oppNetPKPct": 0.92,
             "goalie": {
                 "playerID": "8475660",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 574,
                 "careerGAA": 2.68928,
                 "careerSavePct": 0.910941,
@@ -1363,15 +1363,15 @@
             "oppShotsAgainstPerGame": 27.27,
             "oppNetPKPct": 0.78,
             "goalie": {
-                "playerID": "8477465",
-                "confirmed": 0,
-                "careerGamesPlayed": 334,
-                "careerGAA": 2.79755,
-                "careerSavePct": 0.906848,
-                "seasonGamesPlayed": 8,
-                "seasonGAA": 2.56576,
-                "seasonSavePct": 0.902439,
-                "goalieName": "Tristan Jarry"
+                "playerID": "8477035",
+                "confirmed": 1,
+                "careerGamesPlayed": 7,
+                "careerGAA": 3.00405,
+                "careerSavePct": 0.901408,
+                "seasonGamesPlayed": 1,
+                "seasonGAA": 1.01323,
+                "seasonSavePct": 0.964286,
+                "goalieName": "Matt Tomkins"
             },
             "last5Games": [
                 {
