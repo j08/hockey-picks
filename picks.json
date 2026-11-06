@@ -14,7 +14,7 @@
             "oppNetPKPct": 0.73,
             "goalie": {
                 "playerID": "8480045",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 200,
                 "careerGAA": 2.9809,
                 "careerSavePct": 0.898952,
@@ -88,15 +88,15 @@
             "oppShotsAgainstPerGame": 27.27,
             "oppNetPKPct": 0.72,
             "goalie": {
-                "playerID": "8475660",
+                "playerID": "8482982",
                 "confirmed": 0,
-                "careerGamesPlayed": 575,
-                "careerGAA": 2.68576,
-                "careerSavePct": 0.911032,
+                "careerGamesPlayed": 84,
+                "careerGAA": 2.64856,
+                "careerSavePct": 0.910846,
                 "seasonGamesPlayed": 8,
-                "seasonGAA": 2.43957,
-                "seasonSavePct": 0.909548,
-                "goalieName": "Cam Talbot"
+                "seasonGAA": 3.11214,
+                "seasonSavePct": 0.883333,
+                "goalieName": "Jet Greaves"
             },
             "last5Games": [
                 {
@@ -2130,7 +2130,7 @@
                 "team": "ANA",
                 "position": "R",
                 "evLine": "f3",
-                "ppLine": "pp2",
+                "ppLine": "",
                 "bookieOdds": "16.6%",
                 "myModelOdds": "13.3%",
                 "daysRest": 0,
