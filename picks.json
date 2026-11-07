@@ -239,7 +239,7 @@
             "oppNetPKPct": 0.94,
             "goalie": {
                 "playerID": "8480981",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 126,
                 "careerGAA": 2.64108,
                 "careerSavePct": 0.909493,
@@ -464,7 +464,7 @@
             "oppNetPKPct": 0.8,
             "goalie": {
                 "playerID": "8475683",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 817,
                 "careerGAA": 2.61632,
                 "careerSavePct": 0.911938,
@@ -614,7 +614,7 @@
             "oppNetPKPct": 0.72,
             "goalie": {
                 "playerID": "8481035",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 151,
                 "careerGAA": 3.02775,
                 "careerSavePct": 0.883986,
@@ -764,7 +764,7 @@
             "oppNetPKPct": 0.73,
             "goalie": {
                 "playerID": "8478009",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 318,
                 "careerGAA": 2.58991,
                 "careerSavePct": 0.914646,
@@ -838,15 +838,15 @@
             "oppShotsAgainstPerGame": 27.07,
             "oppNetPKPct": 0.9,
             "goalie": {
-                "playerID": "8476945",
+                "playerID": "8474596",
                 "confirmed": 0,
-                "careerGamesPlayed": 629,
-                "careerGAA": 2.58364,
-                "careerSavePct": 0.915638,
-                "seasonGamesPlayed": 4,
-                "seasonGAA": 2.43902,
-                "seasonSavePct": 0.891304,
-                "goalieName": "Connor Hellebuyck"
+                "careerGamesPlayed": 505,
+                "careerGAA": 2.76076,
+                "careerSavePct": 0.906972,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 3.11236,
+                "seasonSavePct": 0.886878,
+                "goalieName": "Jake Allen"
             },
             "last5Games": [
                 {
@@ -2941,7 +2941,7 @@
                 "evLine": "f3",
                 "ppLine": "pp2",
                 "bookieOdds": "23.8%",
-                "myModelOdds": "17.4%",
+                "myModelOdds": "17.5%",
                 "daysRest": 2,
                 "lastGameDate": "2026-11-04",
                 "lastGoals": "0",
@@ -3920,7 +3920,7 @@
                 "playerID": "8485391",
                 "team": "CHI",
                 "position": "C",
-                "evLine": "f3",
+                "evLine": "f2",
                 "ppLine": "pp1",
                 "bookieOdds": "21.3%",
                 "myModelOdds": "15.8%",
