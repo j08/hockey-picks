@@ -388,15 +388,15 @@
             "oppShotsAgainstPerGame": 30.47,
             "oppNetPKPct": 0.65,
             "goalie": {
-                "playerID": "8482193",
-                "confirmed": 0,
-                "careerGamesPlayed": 16,
-                "careerGAA": 2.32868,
-                "careerSavePct": 0.916049,
-                "seasonGamesPlayed": 13,
-                "seasonGAA": 2.51797,
-                "seasonSavePct": 0.906149,
-                "goalieName": "Dylan Garand"
+                "playerID": "8476914",
+                "confirmed": 1,
+                "careerGamesPlayed": 334,
+                "careerGAA": 3.05838,
+                "careerSavePct": 0.900053,
+                "seasonGamesPlayed": null,
+                "seasonGAA": null,
+                "seasonSavePct": null,
+                "goalieName": "Joonas Korpisalo"
             },
             "last5Games": [
                 {
@@ -914,7 +914,7 @@
             "oppNetPKPct": 0.82,
             "goalie": {
                 "playerID": "8481611",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 136,
                 "careerGAA": 2.38788,
                 "careerSavePct": 0.90574,
@@ -1513,15 +1513,15 @@
             "oppShotsAgainstPerGame": 27.44,
             "oppNetPKPct": 0.88,
             "goalie": {
-                "playerID": "8476341",
-                "confirmed": 0,
-                "careerGamesPlayed": 232,
-                "careerGAA": 2.94819,
-                "careerSavePct": 0.905095,
-                "seasonGamesPlayed": 6,
-                "seasonGAA": 2.51059,
-                "seasonSavePct": 0.902098,
-                "goalieName": "Anton Forsberg"
+                "playerID": "8475311",
+                "confirmed": 1,
+                "careerGamesPlayed": 498,
+                "careerGAA": 2.58099,
+                "careerSavePct": 0.912221,
+                "seasonGamesPlayed": 9,
+                "seasonGAA": 3.4573,
+                "seasonSavePct": 0.885375,
+                "goalieName": "Darcy Kuemper"
             },
             "last5Games": [
                 {
@@ -1588,15 +1588,15 @@
             "oppShotsAgainstPerGame": 28.57,
             "oppNetPKPct": 0.67,
             "goalie": {
-                "playerID": "8481668",
-                "confirmed": 0,
-                "careerGamesPlayed": 69,
-                "careerGAA": 3.11891,
-                "careerSavePct": 0.884034,
-                "seasonGamesPlayed": 11,
-                "seasonGAA": 3.25702,
-                "seasonSavePct": 0.876289,
-                "goalieName": "Arturs Silovs"
+                "playerID": "8483703",
+                "confirmed": 1,
+                "careerGamesPlayed": 10,
+                "careerGAA": 3.21252,
+                "careerSavePct": 0.882129,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 3.82936,
+                "seasonSavePct": 0.870748,
+                "goalieName": "Sergei Murashov"
             },
             "last5Games": [
                 {
@@ -3185,7 +3185,7 @@
                 "playerID": "8474578",
                 "team": "PIT",
                 "position": "D",
-                "evLine": "d1",
+                "evLine": "d2",
                 "ppLine": "pp1",
                 "bookieOdds": "19.2%",
                 "myModelOdds": "13.9%",
