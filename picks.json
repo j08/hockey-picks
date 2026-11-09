@@ -88,15 +88,15 @@
             "oppShotsAgainstPerGame": 26.28,
             "oppNetPKPct": 0.8,
             "goalie": {
-                "playerID": "8476914",
-                "confirmed": 0,
-                "careerGamesPlayed": 335,
-                "careerGAA": 3.05832,
-                "careerSavePct": 0.900032,
-                "seasonGamesPlayed": 1,
-                "seasonGAA": 3.03883,
-                "seasonSavePct": 0.892857,
-                "goalieName": "Joonas Korpisalo"
+                "playerID": "8482193",
+                "confirmed": 1,
+                "careerGamesPlayed": 16,
+                "careerGAA": 2.32868,
+                "careerSavePct": 0.916049,
+                "seasonGamesPlayed": 13,
+                "seasonGAA": 2.51797,
+                "seasonSavePct": 0.906149,
+                "goalieName": "Dylan Garand"
             },
             "last5Games": [
                 {
@@ -511,7 +511,7 @@
                 "evLine": "f2",
                 "ppLine": "pp1",
                 "bookieOdds": "31.1%",
-                "myModelOdds": "22.2%",
+                "myModelOdds": "22.3%",
                 "daysRest": 1,
                 "lastGameDate": "2026-11-07",
                 "lastGoals": "1",
