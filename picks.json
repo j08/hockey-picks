@@ -239,7 +239,7 @@
             "oppNetPKPct": 0.8,
             "goalie": {
                 "playerID": "8482661",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 56,
                 "careerGAA": 2.50495,
                 "careerSavePct": 0.913958,
@@ -913,15 +913,15 @@
             "oppShotsAgainstPerGame": 28.94,
             "oppNetPKPct": 0.92,
             "goalie": {
-                "playerID": "8475311",
-                "confirmed": 0,
-                "careerGamesPlayed": 499,
-                "careerGAA": 2.58417,
-                "careerSavePct": 0.912047,
-                "seasonGamesPlayed": 10,
-                "seasonGAA": 3.52773,
-                "seasonSavePct": 0.878229,
-                "goalieName": "Darcy Kuemper"
+                "playerID": "8476341",
+                "confirmed": 1,
+                "careerGamesPlayed": 232,
+                "careerGAA": 2.94819,
+                "careerSavePct": 0.905095,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 2.51059,
+                "seasonSavePct": 0.902098,
+                "goalieName": "Anton Forsberg"
             },
             "last5Games": [
                 {
@@ -3074,8 +3074,8 @@
                 "position": "C",
                 "evLine": "f4",
                 "ppLine": "pp2",
-                "bookieOdds": "20.2%",
-                "myModelOdds": "15.1%",
+                "bookieOdds": "19.4%",
+                "myModelOdds": "14.5%",
                 "daysRest": 2,
                 "lastGameDate": "2026-11-07",
                 "lastGoals": "0",
