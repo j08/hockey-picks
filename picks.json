@@ -164,7 +164,7 @@
             "oppNetPKPct": 0.78,
             "goalie": {
                 "playerID": "8484170",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 27,
                 "careerGAA": 2.32859,
                 "careerSavePct": 0.915209,
@@ -314,7 +314,7 @@
             "oppNetPKPct": 0.78,
             "goalie": {
                 "playerID": "8481035",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 152,
                 "careerGAA": 3.02036,
                 "careerSavePct": 0.884488,
@@ -464,7 +464,7 @@
             "oppNetPKPct": 0.87,
             "goalie": {
                 "playerID": "8475660",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 575,
                 "careerGAA": 2.68576,
                 "careerSavePct": 0.911054,
@@ -2337,8 +2337,8 @@
                 "position": "C",
                 "evLine": "f2",
                 "ppLine": "pp2",
-                "bookieOdds": "20.2%",
-                "myModelOdds": "15.1%",
+                "bookieOdds": "20.5%",
+                "myModelOdds": "15.3%",
                 "daysRest": 1,
                 "lastGameDate": "2026-11-08",
                 "lastGoals": "0",
