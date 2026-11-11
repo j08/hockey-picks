@@ -313,15 +313,15 @@
             "oppShotsAgainstPerGame": 28.6,
             "oppNetPKPct": 0.84,
             "goalie": {
-                "playerID": "8482221",
-                "confirmed": 0,
-                "careerGamesPlayed": 48,
-                "careerGAA": 3.18634,
-                "careerSavePct": 0.895115,
-                "seasonGamesPlayed": 9,
-                "seasonGAA": 2.75389,
-                "seasonSavePct": 0.898374,
-                "goalieName": "Devon Levi"
+                "playerID": "8477465",
+                "confirmed": 1,
+                "careerGamesPlayed": 334,
+                "careerGAA": 2.79755,
+                "careerSavePct": 0.906848,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 2.56576,
+                "seasonSavePct": 0.902439,
+                "goalieName": "Tristan Jarry"
             },
             "last5Games": [
                 {
@@ -464,7 +464,7 @@
             "oppNetPKPct": 0.71,
             "goalie": {
                 "playerID": "8479394",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 255,
                 "careerGAA": 2.90526,
                 "careerSavePct": 0.904697,
@@ -2876,7 +2876,7 @@
                 "evLine": "f3",
                 "ppLine": "pp2",
                 "bookieOdds": "18.4%",
-                "myModelOdds": "14.8%",
+                "myModelOdds": "14.1%",
                 "daysRest": 3,
                 "lastGameDate": "2026-11-07",
                 "lastGoals": "1",
