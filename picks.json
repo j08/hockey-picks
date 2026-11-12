@@ -689,7 +689,7 @@
             "oppNetPKPct": 0.71,
             "goalie": {
                 "playerID": "8480313",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 216,
                 "careerGAA": 2.59403,
                 "careerSavePct": 0.910526,
@@ -839,7 +839,7 @@
             "oppNetPKPct": 0.74,
             "goalie": {
                 "playerID": "8483710",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 30,
                 "careerGAA": 2.97397,
                 "careerSavePct": 0.902985,
@@ -988,15 +988,15 @@
             "oppShotsAgainstPerGame": 30.67,
             "oppNetPKPct": 0.82,
             "goalie": {
-                "playerID": "8481551",
-                "confirmed": 0,
-                "careerGamesPlayed": 24,
-                "careerGAA": 3.04903,
-                "careerSavePct": 0.894654,
-                "seasonGamesPlayed": 8,
-                "seasonGAA": 3.38969,
-                "seasonSavePct": 0.872928,
-                "goalieName": "Colten Ellis"
+                "playerID": "8479312",
+                "confirmed": 1,
+                "careerGamesPlayed": 149,
+                "careerGAA": 2.93441,
+                "careerSavePct": 0.903369,
+                "seasonGamesPlayed": null,
+                "seasonGAA": null,
+                "seasonSavePct": null,
+                "goalieName": "Alex Lyon"
             },
             "last5Games": [
                 {
@@ -1858,7 +1858,7 @@
                 "evLine": "f1",
                 "ppLine": "pp1",
                 "bookieOdds": "32.8%",
-                "myModelOdds": "25.8%",
+                "myModelOdds": "24.5%",
                 "daysRest": 0,
                 "lastGameDate": "2026-11-11",
                 "lastGoals": "1",
