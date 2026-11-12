@@ -1289,7 +1289,7 @@
             "oppNetPKPct": 0.7,
             "goalie": {
                 "playerID": "8480981",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 128,
                 "careerGAA": 2.63082,
                 "careerSavePct": 0.909907,
@@ -1858,7 +1858,7 @@
                 "evLine": "f1",
                 "ppLine": "pp1",
                 "bookieOdds": "32.8%",
-                "myModelOdds": "24.5%",
+                "myModelOdds": "25.8%",
                 "daysRest": 0,
                 "lastGameDate": "2026-11-11",
                 "lastGoals": "1",
