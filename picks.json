@@ -1888,15 +1888,15 @@
             "oppShotsAgainstPerGame": 26.95,
             "oppNetPKPct": 0.77,
             "goalie": {
-                "playerID": "8478009",
+                "playerID": "8473575",
                 "confirmed": 0,
-                "careerGamesPlayed": 321,
-                "careerGAA": 2.59298,
-                "careerSavePct": 0.914768,
-                "seasonGamesPlayed": 13,
-                "seasonGAA": 2.52589,
-                "seasonSavePct": 0.915385,
-                "goalieName": "Ilya Sorokin"
+                "careerGamesPlayed": 626,
+                "careerGAA": 2.6479,
+                "careerSavePct": 0.915436,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 2.72403,
+                "seasonSavePct": 0.892308,
+                "goalieName": "Semyon Varlamov"
             },
             "last5Games": [
                 {
