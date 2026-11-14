@@ -239,7 +239,7 @@
             "oppNetPKPct": 0.78,
             "goalie": {
                 "playerID": "8482661",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 58,
                 "careerGAA": 2.46899,
                 "careerSavePct": 0.915077,
@@ -1439,7 +1439,7 @@
             "oppNetPKPct": 0.9,
             "goalie": {
                 "playerID": "8478916",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 182,
                 "careerGAA": 2.87589,
                 "careerSavePct": 0.902976,
@@ -1588,15 +1588,15 @@
             "oppShotsAgainstPerGame": 23.33,
             "oppNetPKPct": 0.9,
             "goalie": {
-                "playerID": "8480045",
+                "playerID": "8479312",
                 "confirmed": 0,
-                "careerGamesPlayed": 202,
-                "careerGAA": 2.99105,
-                "careerSavePct": 0.898431,
-                "seasonGamesPlayed": 12,
-                "seasonGAA": 3.51185,
-                "seasonSavePct": 0.86711,
-                "goalieName": "Ukko-Pekka Luukkonen"
+                "careerGamesPlayed": 150,
+                "careerGAA": 2.93392,
+                "careerSavePct": 0.903226,
+                "seasonGamesPlayed": 1,
+                "seasonGAA": 2.87158,
+                "seasonSavePct": 0.88,
+                "goalieName": "Alex Lyon"
             },
             "last5Games": [
                 {
