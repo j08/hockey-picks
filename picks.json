@@ -314,7 +314,7 @@
             "oppNetPKPct": 0.83,
             "goalie": {
                 "playerID": "8476932",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 176,
                 "careerGAA": 2.67214,
                 "careerSavePct": 0.913061,
@@ -838,15 +838,15 @@
             "oppShotsAgainstPerGame": 27.79,
             "oppNetPKPct": 0.83,
             "goalie": {
-                "playerID": "8481035",
-                "confirmed": 0,
-                "careerGamesPlayed": 153,
-                "careerGAA": 3.01977,
-                "careerSavePct": 0.884236,
-                "seasonGamesPlayed": 10,
-                "seasonGAA": 3.11289,
-                "seasonSavePct": 0.884793,
-                "goalieName": "Samuel Ersson"
+                "playerID": "8476999",
+                "confirmed": 1,
+                "careerGamesPlayed": 349,
+                "careerGAA": 2.54277,
+                "careerSavePct": 0.914535,
+                "seasonGamesPlayed": 9,
+                "seasonGAA": 1.52284,
+                "seasonSavePct": 0.938389,
+                "goalieName": "Linus Ullmark"
             },
             "last5Games": [
                 {
@@ -913,15 +913,15 @@
             "oppShotsAgainstPerGame": 24.95,
             "oppNetPKPct": 0.7,
             "goalie": {
-                "playerID": "8480313",
-                "confirmed": 0,
-                "careerGamesPlayed": 217,
-                "careerGAA": 2.60108,
-                "careerSavePct": 0.910296,
-                "seasonGamesPlayed": 13,
-                "seasonGAA": 3.1713,
-                "seasonSavePct": 0.888252,
-                "goalieName": "Logan Thompson"
+                "playerID": "8479292",
+                "confirmed": 1,
+                "careerGamesPlayed": 175,
+                "careerGAA": 2.87521,
+                "careerSavePct": 0.901804,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 3.07561,
+                "seasonSavePct": 0.881356,
+                "goalieName": "Charlie Lindgren"
             },
             "last5Games": [
                 {
@@ -1064,7 +1064,7 @@
             "oppNetPKPct": 0.82,
             "goalie": {
                 "playerID": "8482982",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 86,
                 "careerGAA": 2.68323,
                 "careerSavePct": 0.909928,
