@@ -689,7 +689,7 @@
             "oppNetPKPct": 0.8,
             "goalie": {
                 "playerID": "8477424",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 481,
                 "careerGAA": 2.72988,
                 "careerSavePct": 0.912007,
