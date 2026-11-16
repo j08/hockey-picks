@@ -14,7 +14,7 @@
             "oppNetPKPct": 0.79,
             "goalie": {
                 "playerID": "8476914",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 336,
                 "careerGAA": 3.05169,
                 "careerSavePct": 0.900243,
@@ -1784,7 +1784,7 @@
                 "team": "VAN",
                 "position": "C",
                 "evLine": "f2",
-                "ppLine": "pp2",
+                "ppLine": "",
                 "bookieOdds": "14.8%",
                 "myModelOdds": "14.0%",
                 "daysRest": 0,
