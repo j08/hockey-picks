@@ -238,15 +238,15 @@
             "oppShotsAgainstPerGame": 24.9,
             "oppNetPKPct": 0.72,
             "goalie": {
-                "playerID": "8480947",
+                "playerID": "8484268",
                 "confirmed": 0,
-                "careerGamesPlayed": 219,
-                "careerGAA": 3.19752,
-                "careerSavePct": 0.894838,
-                "seasonGamesPlayed": 9,
-                "seasonGAA": 6.03274,
-                "seasonSavePct": 0.808219,
-                "goalieName": "Kevin Lankinen"
+                "careerGamesPlayed": 23,
+                "careerGAA": 3.5141,
+                "careerSavePct": 0.881579,
+                "seasonGamesPlayed": null,
+                "seasonGAA": null,
+                "seasonSavePct": null,
+                "goalieName": "Nikita Tolopilo"
             },
             "last5Games": [
                 {
