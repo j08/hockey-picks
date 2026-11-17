@@ -13,15 +13,15 @@
             "oppShotsAgainstPerGame": 27.44,
             "oppNetPKPct": 0.71,
             "goalie": {
-                "playerID": "8480280",
-                "confirmed": 0,
-                "careerGamesPlayed": 260,
-                "careerGAA": 2.60735,
-                "careerSavePct": 0.909519,
-                "seasonGamesPlayed": 15,
-                "seasonGAA": 2.60234,
-                "seasonSavePct": 0.905707,
-                "goalieName": "Jeremy Swayman"
+                "playerID": "8480022",
+                "confirmed": 1,
+                "careerGamesPlayed": 10,
+                "careerGAA": 2.9812,
+                "careerSavePct": 0.890476,
+                "seasonGamesPlayed": 6,
+                "seasonGAA": 2.17446,
+                "seasonSavePct": 0.925,
+                "goalieName": "Michael Dipietro"
             },
             "last5Games": [
                 {
@@ -389,7 +389,7 @@
             "oppNetPKPct": 0.87,
             "goalie": {
                 "playerID": "8482221",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 49,
                 "careerGAA": 3.11829,
                 "careerSavePct": 0.896674,
@@ -913,15 +913,15 @@
             "oppShotsAgainstPerGame": 26.57,
             "oppNetPKPct": 0.77,
             "goalie": {
-                "playerID": "8480981",
-                "confirmed": 0,
-                "careerGamesPlayed": 130,
-                "careerGAA": 2.61872,
-                "careerSavePct": 0.910205,
-                "seasonGamesPlayed": 15,
-                "seasonGAA": 2.27522,
-                "seasonSavePct": 0.921296,
-                "goalieName": "Joel Hofer"
+                "playerID": "8476412",
+                "confirmed": 1,
+                "careerGamesPlayed": 382,
+                "careerGAA": 2.8534,
+                "careerSavePct": 0.902742,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 4.2695,
+                "seasonSavePct": 0.851064,
+                "goalieName": "Jordan Binnington"
             },
             "last5Games": [
                 {
@@ -1289,7 +1289,7 @@
             "oppNetPKPct": 0.74,
             "goalie": {
                 "playerID": "8476999",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 350,
                 "careerGAA": 2.53819,
                 "careerSavePct": 0.91458,
@@ -2594,8 +2594,8 @@
                 "position": "L",
                 "evLine": "f2",
                 "ppLine": "pp2",
-                "bookieOdds": "39.2%",
-                "myModelOdds": "31.5%",
+                "bookieOdds": "39.0%",
+                "myModelOdds": "31.4%",
                 "daysRest": 2,
                 "lastGameDate": "2026-11-14",
                 "lastGoals": "0",
