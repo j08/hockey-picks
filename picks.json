@@ -989,7 +989,7 @@
             "oppNetPKPct": 0.9,
             "goalie": {
                 "playerID": "8478024",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 172,
                 "careerGAA": 3.07346,
                 "careerSavePct": 0.898872,
@@ -1138,15 +1138,15 @@
             "oppShotsAgainstPerGame": 26.18,
             "oppNetPKPct": 0.79,
             "goalie": {
-                "playerID": "8477424",
-                "confirmed": 0,
-                "careerGamesPlayed": 482,
-                "careerGAA": 2.73293,
-                "careerSavePct": 0.911876,
-                "seasonGamesPlayed": 15,
-                "seasonGAA": 2.49362,
-                "seasonSavePct": 0.916849,
-                "goalieName": "Juuse Saros"
+                "playerID": "8481020",
+                "confirmed": 1,
+                "careerGamesPlayed": 85,
+                "careerGAA": 2.8877,
+                "careerSavePct": 0.898531,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 3.12568,
+                "seasonSavePct": 0.885714,
+                "goalieName": "Justus Annunen"
             },
             "last5Games": [
                 {
