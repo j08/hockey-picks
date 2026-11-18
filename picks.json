@@ -313,15 +313,15 @@
             "oppShotsAgainstPerGame": 27.29,
             "oppNetPKPct": 0.83,
             "goalie": {
-                "playerID": "8478872",
-                "confirmed": 0,
-                "careerGamesPlayed": 278,
-                "careerGAA": 3.10465,
-                "careerSavePct": 0.897995,
-                "seasonGamesPlayed": 16,
-                "seasonGAA": 3.14422,
-                "seasonSavePct": 0.872283,
-                "goalieName": "Karel Vejmelka"
+                "playerID": "8482657",
+                "confirmed": 1,
+                "careerGamesPlayed": 9,
+                "careerGAA": 3.47426,
+                "careerSavePct": 0.862434,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 3.56421,
+                "seasonSavePct": 0.862857,
+                "goalieName": "Sebastian Cossa"
             },
             "last5Games": [
                 {
