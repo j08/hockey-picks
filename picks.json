@@ -1063,15 +1063,15 @@
             "oppShotsAgainstPerGame": 29.1,
             "oppNetPKPct": 0.89,
             "goalie": {
-                "playerID": "8479973",
+                "playerID": "8482076",
                 "confirmed": 0,
-                "careerGamesPlayed": 240,
-                "careerGAA": 2.80494,
-                "careerSavePct": 0.900877,
-                "seasonGamesPlayed": 16,
-                "seasonGAA": 3.29369,
-                "seasonSavePct": 0.883212,
-                "goalieName": "Stuart Skinner"
+                "careerGamesPlayed": 63,
+                "careerGAA": 2.90843,
+                "careerSavePct": 0.897552,
+                "seasonGamesPlayed": 4,
+                "seasonGAA": 2.777,
+                "seasonSavePct": 0.872093,
+                "goalieName": "Nico Daws"
             },
             "last5Games": [
                 {
@@ -3234,8 +3234,8 @@
                 "position": "R",
                 "evLine": "f1",
                 "ppLine": "pp1",
-                "bookieOdds": "35.2%",
-                "myModelOdds": "31.0%",
+                "bookieOdds": "34.9%",
+                "myModelOdds": "30.8%",
                 "daysRest": 1,
                 "lastGameDate": "2026-11-17",
                 "lastGoals": "1",
