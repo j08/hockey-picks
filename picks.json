@@ -988,15 +988,15 @@
             "oppShotsAgainstPerGame": 30.48,
             "oppNetPKPct": 0.82,
             "goalie": {
-                "playerID": "8482982",
-                "confirmed": 0,
-                "careerGamesPlayed": 87,
-                "careerGAA": 2.69945,
-                "careerSavePct": 0.909091,
-                "seasonGamesPlayed": 11,
-                "seasonGAA": 3.42028,
-                "seasonSavePct": 0.875472,
-                "goalieName": "Jet Greaves"
+                "playerID": "8475660",
+                "confirmed": 1,
+                "careerGamesPlayed": 577,
+                "careerGAA": 2.68884,
+                "careerSavePct": 0.910996,
+                "seasonGamesPlayed": 10,
+                "seasonGAA": 2.6711,
+                "seasonSavePct": 0.907749,
+                "goalieName": "Cam Talbot"
             },
             "last5Games": [
                 {
