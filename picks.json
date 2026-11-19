@@ -1589,7 +1589,7 @@
             "oppNetPKPct": 0.63,
             "goalie": {
                 "playerID": "8482447",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 50,
                 "careerGAA": 3.15462,
                 "careerSavePct": 0.885965,
@@ -3183,7 +3183,7 @@
                 "playerID": "8481711",
                 "team": "NYI",
                 "position": "L",
-                "evLine": "f3",
+                "evLine": "f2",
                 "ppLine": "pp1",
                 "bookieOdds": "20.6%",
                 "myModelOdds": "15.4%",
