@@ -163,15 +163,15 @@
             "oppShotsAgainstPerGame": 27.79,
             "oppNetPKPct": 0.81,
             "goalie": {
-                "playerID": "8476999",
-                "confirmed": 0,
-                "careerGamesPlayed": 351,
-                "careerGAA": 2.53364,
-                "careerSavePct": 0.91466,
-                "seasonGamesPlayed": 11,
-                "seasonGAA": 1.4236,
-                "seasonSavePct": 0.939759,
-                "goalieName": "Linus Ullmark"
+                "playerID": "8481035",
+                "confirmed": 1,
+                "careerGamesPlayed": 153,
+                "careerGAA": 3.01977,
+                "careerSavePct": 0.884236,
+                "seasonGamesPlayed": 10,
+                "seasonGAA": 3.11289,
+                "seasonSavePct": 0.884793,
+                "goalieName": "Samuel Ersson"
             },
             "last5Games": [
                 {
@@ -464,7 +464,7 @@
             "oppNetPKPct": 0.88,
             "goalie": {
                 "playerID": "8481668",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 70,
                 "careerGAA": 3.13675,
                 "careerSavePct": 0.883361,
@@ -614,7 +614,7 @@
             "oppNetPKPct": 0.73,
             "goalie": {
                 "playerID": "8480313",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 218,
                 "careerGAA": 2.60775,
                 "careerSavePct": 0.909995,
@@ -3678,7 +3678,7 @@
                 "evLine": "f4",
                 "ppLine": "",
                 "bookieOdds": "13.0%",
-                "myModelOdds": "10.9%",
+                "myModelOdds": "10.7%",
                 "daysRest": 1,
                 "lastGameDate": "2026-11-17",
                 "lastGoals": "0",
@@ -3776,7 +3776,7 @@
                 "evLine": "d1",
                 "ppLine": "pp2",
                 "bookieOdds": "14.0%",
-                "myModelOdds": "11.2%",
+                "myModelOdds": "11.1%",
                 "daysRest": 1,
                 "lastGameDate": "2026-11-17",
                 "lastGoals": "0",
