@@ -1889,7 +1889,7 @@
             "oppNetPKPct": 0.66,
             "goalie": {
                 "playerID": "8482661",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 61,
                 "careerGAA": 2.44538,
                 "careerSavePct": 0.91574,
@@ -3583,7 +3583,7 @@
                 "playerID": 8477573,
                 "team": "STL",
                 "position": "L",
-                "evLine": "f4",
+                "evLine": "",
                 "ppLine": "",
                 "bookieOdds": "14.1%",
                 "myModelOdds": "11.2%",
