@@ -1738,15 +1738,15 @@
             "oppShotsAgainstPerGame": 25.13,
             "oppNetPKPct": 0.73,
             "goalie": {
-                "playerID": "8480843",
-                "confirmed": 0,
-                "careerGamesPlayed": 190,
-                "careerGAA": 3.2713,
-                "careerSavePct": 0.895905,
-                "seasonGamesPlayed": 13,
-                "seasonGAA": 3.93814,
-                "seasonSavePct": 0.857143,
-                "goalieName": "Lukas Dostal"
+                "playerID": "8478024",
+                "confirmed": 1,
+                "careerGamesPlayed": 173,
+                "careerGAA": 3.10065,
+                "careerSavePct": 0.897938,
+                "seasonGamesPlayed": 8,
+                "seasonGAA": 3.76616,
+                "seasonSavePct": 0.856322,
+                "goalieName": "Ville Husso"
             },
             "last5Games": [
                 {
