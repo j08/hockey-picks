@@ -163,15 +163,15 @@
             "oppShotsAgainstPerGame": 27.74,
             "oppNetPKPct": 0.73,
             "goalie": {
-                "playerID": "8476883",
-                "confirmed": 0,
-                "careerGamesPlayed": 615,
-                "careerGAA": 2.50163,
-                "careerSavePct": 0.916264,
-                "seasonGamesPlayed": 17,
-                "seasonGAA": 2.59324,
-                "seasonSavePct": 0.894988,
-                "goalieName": "Andrei Vasilevskiy"
+                "playerID": "8483710",
+                "confirmed": 1,
+                "careerGamesPlayed": 31,
+                "careerGAA": 2.90322,
+                "careerSavePct": 0.905162,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 2.562,
+                "seasonSavePct": 0.899225,
+                "goalieName": "Dennis Hildeby"
             },
             "last5Games": [
                 {
