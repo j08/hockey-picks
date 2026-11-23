@@ -688,15 +688,15 @@
             "oppShotsAgainstPerGame": 28.17,
             "oppNetPKPct": 0.74,
             "goalie": {
-                "playerID": "8478872",
-                "confirmed": 0,
-                "careerGamesPlayed": 278,
-                "careerGAA": 3.10465,
-                "careerSavePct": 0.897995,
-                "seasonGamesPlayed": 16,
-                "seasonGAA": 3.14422,
-                "seasonSavePct": 0.872283,
-                "goalieName": "Karel Vejmelka"
+                "playerID": "8482657",
+                "confirmed": 1,
+                "careerGamesPlayed": 11,
+                "careerGAA": 3.05871,
+                "careerSavePct": 0.884462,
+                "seasonGamesPlayed": 10,
+                "seasonGAA": 3.09239,
+                "seasonSavePct": 0.886076,
+                "goalieName": "Sebastian Cossa"
             },
             "last5Games": [
                 {
@@ -763,15 +763,15 @@
             "oppShotsAgainstPerGame": 26.04,
             "oppNetPKPct": 0.77,
             "goalie": {
-                "playerID": "8475831",
+                "playerID": "8478916",
                 "confirmed": 0,
-                "careerGamesPlayed": 416,
-                "careerGAA": 2.66188,
-                "careerSavePct": 0.90766,
-                "seasonGamesPlayed": 14,
-                "seasonGAA": 3.01658,
-                "seasonSavePct": 0.894286,
-                "goalieName": "Philipp Grubauer"
+                "careerGamesPlayed": 183,
+                "careerGAA": 2.8908,
+                "careerSavePct": 0.902454,
+                "seasonGamesPlayed": 10,
+                "seasonGAA": 4.096,
+                "seasonSavePct": 0.872,
+                "goalieName": "Joey Daccord"
             },
             "last5Games": [
                 {
@@ -1796,7 +1796,7 @@
                 "playerID": "8479407",
                 "team": "NJD",
                 "position": "L",
-                "evLine": "f1",
+                "evLine": "f2",
                 "ppLine": "pp2",
                 "bookieOdds": "26.7%",
                 "myModelOdds": "19.5%",
@@ -2041,7 +2041,7 @@
                 "playerID": "8482146",
                 "team": "NJD",
                 "position": "R",
-                "evLine": "f2",
+                "evLine": "f3",
                 "ppLine": "pp2",
                 "bookieOdds": "24.7%",
                 "myModelOdds": "18.2%",
