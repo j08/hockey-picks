@@ -988,15 +988,15 @@
             "oppShotsAgainstPerGame": 30.64,
             "oppNetPKPct": 0.78,
             "goalie": {
-                "playerID": "8482661",
-                "confirmed": 0,
-                "careerGamesPlayed": 62,
-                "careerGAA": 2.45127,
-                "careerSavePct": 0.915176,
-                "seasonGamesPlayed": 22,
-                "seasonGAA": 1.98608,
-                "seasonSavePct": 0.923478,
-                "goalieName": "Jesper Wallstedt"
+                "playerID": "8479406",
+                "confirmed": 1,
+                "careerGamesPlayed": 219,
+                "careerGAA": 2.67334,
+                "careerSavePct": 0.910765,
+                "seasonGamesPlayed": null,
+                "seasonGAA": null,
+                "seasonSavePct": null,
+                "goalieName": "Filip Gustavsson"
             },
             "last5Games": [
                 {
