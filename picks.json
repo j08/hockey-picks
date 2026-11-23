@@ -14,7 +14,7 @@
             "oppNetPKPct": 0.72,
             "goalie": {
                 "playerID": "8476945",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 634,
                 "careerGAA": 2.58748,
                 "careerSavePct": 0.915534,
@@ -538,15 +538,15 @@
             "oppShotsAgainstPerGame": 28.36,
             "oppNetPKPct": 0.9,
             "goalie": {
-                "playerID": "8475683",
+                "playerID": "8476932",
                 "confirmed": 0,
-                "careerGamesPlayed": 820,
-                "careerGAA": 2.62553,
-                "careerSavePct": 0.911599,
-                "seasonGamesPlayed": 14,
-                "seasonGAA": 3.64995,
-                "seasonSavePct": 0.873762,
-                "goalieName": "Sergei Bobrovsky"
+                "careerGamesPlayed": 179,
+                "careerGAA": 2.67186,
+                "careerSavePct": 0.912937,
+                "seasonGamesPlayed": 11,
+                "seasonGAA": 2.83105,
+                "seasonSavePct": 0.901899,
+                "goalieName": "Anthony Stolarz"
             },
             "last5Games": [
                 {
@@ -1946,7 +1946,7 @@
                 "evLine": "f1",
                 "ppLine": "",
                 "bookieOdds": "22.6%",
-                "myModelOdds": "16.9%",
+                "myModelOdds": "16.8%",
                 "daysRest": 1,
                 "lastGameDate": "2026-11-21",
                 "lastGoals": "0",
@@ -1995,7 +1995,7 @@
                 "evLine": "f2",
                 "ppLine": "pp1",
                 "bookieOdds": "35.6%",
-                "myModelOdds": "30.3%",
+                "myModelOdds": "30.0%",
                 "daysRest": 1,
                 "lastGameDate": "2026-11-21",
                 "lastGoals": "0",
