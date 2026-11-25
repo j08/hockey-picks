@@ -14,7 +14,7 @@
             "oppNetPKPct": 0.75,
             "goalie": {
                 "playerID": "8480280",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 262,
                 "careerGAA": 2.61045,
                 "careerSavePct": 0.909403,
@@ -163,15 +163,15 @@
             "oppShotsAgainstPerGame": 27.04,
             "oppNetPKPct": 0.96,
             "goalie": {
-                "playerID": "8479312",
+                "playerID": "8480045",
                 "confirmed": 0,
-                "careerGamesPlayed": 153,
-                "careerGAA": 2.94479,
-                "careerSavePct": 0.902987,
-                "seasonGamesPlayed": 4,
-                "seasonGAA": 3.29949,
-                "seasonSavePct": 0.889831,
-                "goalieName": "Alex Lyon"
+                "careerGamesPlayed": 204,
+                "careerGAA": 2.98602,
+                "careerSavePct": 0.898763,
+                "seasonGamesPlayed": 14,
+                "seasonGAA": 3.36072,
+                "seasonSavePct": 0.878049,
+                "goalieName": "Ukko-Pekka Luukkonen"
             },
             "last5Games": [
                 {
@@ -614,7 +614,7 @@
             "oppNetPKPct": 0.88,
             "goalie": {
                 "playerID": "8478009",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 324,
                 "careerGAA": 2.5875,
                 "careerSavePct": 0.914862,
@@ -764,7 +764,7 @@
             "oppNetPKPct": 0.84,
             "goalie": {
                 "playerID": "8481668",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 72,
                 "careerGAA": 3.12261,
                 "careerSavePct": 0.88412,
@@ -839,7 +839,7 @@
             "oppNetPKPct": 0.85,
             "goalie": {
                 "playerID": "8481692",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 142,
                 "careerGAA": 2.91226,
                 "careerSavePct": 0.900729,
@@ -914,7 +914,7 @@
             "oppNetPKPct": 0.8,
             "goalie": {
                 "playerID": "8480313",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 219,
                 "careerGAA": 2.61982,
                 "careerSavePct": 0.90958,
@@ -988,15 +988,15 @@
             "oppShotsAgainstPerGame": 27.24,
             "oppNetPKPct": 0.77,
             "goalie": {
-                "playerID": "8478435",
-                "confirmed": 0,
-                "careerGamesPlayed": 170,
-                "careerGAA": 2.84668,
-                "careerSavePct": 0.896637,
+                "playerID": "8479361",
+                "confirmed": 1,
+                "careerGamesPlayed": 130,
+                "careerGAA": 2.95304,
+                "careerSavePct": 0.90515,
                 "seasonGamesPlayed": 13,
-                "seasonGAA": 3.28788,
-                "seasonSavePct": 0.876471,
-                "goalieName": "Dan Vladar"
+                "seasonGAA": 3.08384,
+                "seasonSavePct": 0.892473,
+                "goalieName": "Joseph Woll"
             },
             "last5Games": [
                 {
@@ -3781,8 +3781,8 @@
                 "position": "C",
                 "evLine": "f1",
                 "ppLine": "",
-                "bookieOdds": "16.1%",
-                "myModelOdds": "12.4%",
+                "bookieOdds": "15.8%",
+                "myModelOdds": "12.2%",
                 "daysRest": 1,
                 "lastGameDate": "2026-11-23",
                 "lastGoals": "0",
