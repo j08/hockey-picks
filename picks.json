@@ -1813,15 +1813,15 @@
             "oppShotsAgainstPerGame": 30.65,
             "oppNetPKPct": 0.78,
             "goalie": {
-                "playerID": "8480843",
+                "playerID": "8476316",
                 "confirmed": 0,
-                "careerGamesPlayed": 191,
-                "careerGAA": 3.27023,
-                "careerSavePct": 0.895758,
-                "seasonGamesPlayed": 14,
-                "seasonGAA": 3.86902,
-                "seasonSavePct": 0.857143,
-                "goalieName": "Lukas Dostal"
+                "careerGamesPlayed": 146,
+                "careerGAA": 2.69265,
+                "careerSavePct": 0.908648,
+                "seasonGamesPlayed": 5,
+                "seasonGAA": 3.41995,
+                "seasonSavePct": 0.867188,
+                "goalieName": "Laurent Brossoit"
             },
             "last5Games": [
                 {
