@@ -1888,15 +1888,15 @@
             "oppShotsAgainstPerGame": 25.84,
             "oppNetPKPct": 0.77,
             "goalie": {
-                "playerID": "8482137",
-                "confirmed": 0,
-                "careerGamesPlayed": 80,
-                "careerGAA": 3.42863,
-                "careerSavePct": 0.887715,
-                "seasonGamesPlayed": 17,
-                "seasonGAA": 3.27124,
-                "seasonSavePct": 0.888668,
-                "goalieName": "Yaroslav Askarov"
+                "playerID": "8477968",
+                "confirmed": 1,
+                "careerGamesPlayed": 228,
+                "careerGAA": 2.9769,
+                "careerSavePct": 0.901961,
+                "seasonGamesPlayed": 9,
+                "seasonGAA": 3.06831,
+                "seasonSavePct": 0.901754,
+                "goalieName": "Alex Nedeljkovic"
             },
             "last5Games": [
                 {
@@ -3975,7 +3975,7 @@
                 "playerID": "8483482",
                 "team": "ANA",
                 "position": "D",
-                "evLine": "d3",
+                "evLine": "d2",
                 "ppLine": "pp2",
                 "bookieOdds": "12.5%",
                 "myModelOdds": "11.1%",
