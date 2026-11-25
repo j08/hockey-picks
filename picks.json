@@ -388,15 +388,15 @@
             "oppShotsAgainstPerGame": 25.17,
             "oppNetPKPct": 0.73,
             "goalie": {
-                "playerID": "8481611",
+                "playerID": "8483548",
                 "confirmed": 0,
-                "careerGamesPlayed": 140,
-                "careerGAA": 2.38383,
-                "careerSavePct": 0.905086,
-                "seasonGamesPlayed": 15,
-                "seasonGAA": 1.80053,
-                "seasonSavePct": 0.910596,
-                "goalieName": "Pyotr Kochetkov"
+                "careerGamesPlayed": 48,
+                "careerGAA": 2.53787,
+                "careerSavePct": 0.891748,
+                "seasonGamesPlayed": 9,
+                "seasonGAA": 2.85122,
+                "seasonSavePct": 0.87907,
+                "goalieName": "Brandon Bussi"
             },
             "last5Games": [
                 {
