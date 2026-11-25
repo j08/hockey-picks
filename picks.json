@@ -88,15 +88,15 @@
             "oppShotsAgainstPerGame": 28.04,
             "oppNetPKPct": 0.79,
             "goalie": {
-                "playerID": "8479973",
-                "confirmed": 0,
-                "careerGamesPlayed": 242,
-                "careerGAA": 2.80562,
-                "careerSavePct": 0.901005,
-                "seasonGamesPlayed": 18,
-                "seasonGAA": 3.24195,
-                "seasonSavePct": 0.8875,
-                "goalieName": "Stuart Skinner"
+                "playerID": "8482076",
+                "confirmed": 1,
+                "careerGamesPlayed": 64,
+                "careerGAA": 2.90858,
+                "careerSavePct": 0.897338,
+                "seasonGamesPlayed": 4,
+                "seasonGAA": 2.777,
+                "seasonSavePct": 0.872093,
+                "goalieName": "Nico Daws"
             },
             "last5Games": [
                 {
@@ -239,7 +239,7 @@
             "oppNetPKPct": 0.73,
             "goalie": {
                 "playerID": "8476914",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 337,
                 "careerGAA": 3.0451,
                 "careerSavePct": 0.9004,
@@ -1064,7 +1064,7 @@
             "oppNetPKPct": 0.71,
             "goalie": {
                 "playerID": "8475660",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 580,
                 "careerGAA": 2.68889,
                 "careerSavePct": 0.910949,
