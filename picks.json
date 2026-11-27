@@ -989,7 +989,7 @@
             "oppNetPKPct": 0.78,
             "goalie": {
                 "playerID": "8474593",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 592,
                 "careerGAA": 2.73052,
                 "careerSavePct": 0.906278,
@@ -2038,15 +2038,15 @@
             "oppShotsAgainstPerGame": 27.96,
             "oppNetPKPct": 0.74,
             "goalie": {
-                "playerID": "8481668",
-                "confirmed": 0,
-                "careerGamesPlayed": 73,
-                "careerGAA": 3.15066,
-                "careerSavePct": 0.883069,
-                "seasonGamesPlayed": 15,
-                "seasonGAA": 3.37281,
-                "seasonSavePct": 0.873737,
-                "goalieName": "Arturs Silovs"
+                "playerID": "8483703",
+                "confirmed": 1,
+                "careerGamesPlayed": 14,
+                "careerGAA": 3.07686,
+                "careerSavePct": 0.892308,
+                "seasonGamesPlayed": 9,
+                "seasonGAA": 3.34738,
+                "seasonSavePct": 0.890511,
+                "goalieName": "Sergei Murashov"
             },
             "last5Games": [
                 {
