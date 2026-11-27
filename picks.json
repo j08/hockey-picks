@@ -163,15 +163,15 @@
             "oppShotsAgainstPerGame": 29.5,
             "oppNetPKPct": 0.83,
             "goalie": {
-                "playerID": "8476945",
-                "confirmed": 0,
-                "careerGamesPlayed": 636,
-                "careerGAA": 2.58523,
-                "careerSavePct": 0.915524,
+                "playerID": "8474596",
+                "confirmed": 1,
+                "careerGamesPlayed": 508,
+                "careerGAA": 2.76736,
+                "careerSavePct": 0.906609,
                 "seasonGamesPlayed": 11,
-                "seasonGAA": 2.62143,
-                "seasonSavePct": 0.899254,
-                "goalieName": "Connor Hellebuyck"
+                "seasonGAA": 3.31178,
+                "seasonSavePct": 0.873239,
+                "goalieName": "Jake Allen"
             },
             "last5Games": [
                 {
@@ -1814,7 +1814,7 @@
             "oppNetPKPct": 0.74,
             "goalie": {
                 "playerID": "8473575",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 628,
                 "careerGAA": 2.64897,
                 "careerSavePct": 0.915342,
