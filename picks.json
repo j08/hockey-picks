@@ -14,7 +14,7 @@
             "oppNetPKPct": 0.84,
             "goalie": {
                 "playerID": "8480280",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 263,
                 "careerGAA": 2.61221,
                 "careerSavePct": 0.909215,
@@ -2113,15 +2113,15 @@
             "oppShotsAgainstPerGame": 29.36,
             "oppNetPKPct": 0.62,
             "goalie": {
-                "playerID": "8482221",
-                "confirmed": 0,
-                "careerGamesPlayed": 53,
-                "careerGAA": 3.19133,
-                "careerSavePct": 0.893869,
-                "seasonGamesPlayed": 14,
-                "seasonGAA": 2.92439,
-                "seasonSavePct": 0.892183,
-                "goalieName": "Devon Levi"
+                "playerID": "8477465",
+                "confirmed": 1,
+                "careerGamesPlayed": 337,
+                "careerGAA": 2.79557,
+                "careerSavePct": 0.906947,
+                "seasonGamesPlayed": 11,
+                "seasonGAA": 2.57384,
+                "seasonSavePct": 0.906977,
+                "goalieName": "Tristan Jarry"
             },
             "last5Games": [
                 {
