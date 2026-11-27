@@ -238,15 +238,15 @@
             "oppShotsAgainstPerGame": 25.64,
             "oppNetPKPct": 0.73,
             "goalie": {
-                "playerID": "8481692",
-                "confirmed": 0,
-                "careerGamesPlayed": 143,
-                "careerGAA": 2.9129,
-                "careerSavePct": 0.900674,
-                "seasonGamesPlayed": 15,
-                "seasonGAA": 3.42225,
-                "seasonSavePct": 0.877751,
-                "goalieName": "Dustin Wolf"
+                "playerID": "8482445",
+                "confirmed": 1,
+                "careerGamesPlayed": 48,
+                "careerGAA": 2.97996,
+                "careerSavePct": 0.903535,
+                "seasonGamesPlayed": 11,
+                "seasonGAA": 2.81493,
+                "seasonSavePct": 0.909091,
+                "goalieName": "Devin Cooley"
             },
             "last5Games": [
                 {
@@ -314,7 +314,7 @@
             "oppNetPKPct": 0.75,
             "goalie": {
                 "playerID": "8477424",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 485,
                 "careerGAA": 2.72848,
                 "careerSavePct": 0.911932,
@@ -389,7 +389,7 @@
             "oppNetPKPct": 0.92,
             "goalie": {
                 "playerID": "8478872",
-                "confirmed": 0,
+                "confirmed": 1,
                 "careerGamesPlayed": 279,
                 "careerGAA": 3.10436,
                 "careerSavePct": 0.897939,
